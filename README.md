@@ -15,4 +15,4 @@
 - exo_11.rb - programme qui demande un nombre à l'utilisateur, puis qui écrit autant de fois "Salut, ça farte ?"
 - exo_12.rb - Programme qui demande un nombre à l'utilisateur, puis qui compte jusqu'à ce nombre.
 
-<i>Enjoy, wanderer</i>
+<i>Enjoy, wanderer !</i>
