@@ -1,4 +1,4 @@
-# THP - WEEK 2 - DAY 5
+# THP - WEEK 2 - DAY 1
 
 ## First steps with Ruby
 
